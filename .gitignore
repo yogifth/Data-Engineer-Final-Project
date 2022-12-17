@@ -1,0 +1,6 @@
+airflow/logs
+airflow/plugins
+images
+spark/resources
+kafka/kafka_prod.py
+kafka/kafka_cons.py
